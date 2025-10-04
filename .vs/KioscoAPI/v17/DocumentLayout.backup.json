@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|c:\\users\\valen\\source\\repos\\kioscoapi\\kioscoapi\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|solutionrelative:kioscoapi\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|c:\\users\\valen\\source\\repos\\kioscoapi\\kioscoapi\\repository\\implementaciones\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|solutionrelative:kioscoapi\\repository\\implementaciones\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|c:\\users\\valen\\source\\repos\\kioscoapi\\kioscoapi\\servicios\\implementaciones\\articuloservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|solutionrelative:kioscoapi\\servicios\\implementaciones\\articuloservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|c:\\users\\valen\\source\\repos\\kioscoapi\\kioscoapi\\dtos\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|solutionrelative:kioscoapi\\dtos\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|c:\\users\\valen\\source\\repos\\kioscoapi\\kioscoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59298AC-C2BF-44CF-8D31-267A5F3229AB}|KioscoAPI\\KioscoAPI.csproj|solutionrelative:kioscoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\Repository\\Implementaciones\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "KioscoAPI\\Repository\\Implementaciones\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\Repository\\Implementaciones\\ArticuloRepository.cs",
+              "RelativeToolTip": "KioscoAPI\\Repository\\Implementaciones\\ArticuloRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:10:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloDTO.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\DTOs\\ArticuloDTO.cs",
+              "RelativeDocumentMoniker": "KioscoAPI\\DTOs\\ArticuloDTO.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\DTOs\\ArticuloDTO.cs",
+              "RelativeToolTip": "KioscoAPI\\DTOs\\ArticuloDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:05:40.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloServicio.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\Servicios\\Implementaciones\\ArticuloServicio.cs",
+              "RelativeDocumentMoniker": "KioscoAPI\\Servicios\\Implementaciones\\ArticuloServicio.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\Servicios\\Implementaciones\\ArticuloServicio.cs",
+              "RelativeToolTip": "KioscoAPI\\Servicios\\Implementaciones\\ArticuloServicio.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwEwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:03:28.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "KioscoAPI\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "KioscoAPI\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vygAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T00:02:10.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KioscoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\KioscoAPI\\KioscoAPI\\Program.cs",
+              "RelativeToolTip": "KioscoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:17:12.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

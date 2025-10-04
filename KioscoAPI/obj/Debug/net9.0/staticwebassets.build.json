@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "95eBwTVfI4+jywBjYEppJ56hL/7chFv1VfubNPofxdE=",
+  "Source": "KioscoAPI",
+  "BasePath": "_content/KioscoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
