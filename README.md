@@ -1,4 +1,4 @@
-#Api para manejar Comercio
+API PARA EL MANEJO DE UN COMERCIO
 
 [📖​] Definición del Proyecto
 > Aplicación Web de manejo de ventas para un Comercio de cualquier tipo
